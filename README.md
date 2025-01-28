@@ -1,22 +1,22 @@
 # **Design-VI**
 ## CPE - 322
 ### *Anthony Magno*
-> Have a great day!
+> Computer Engineering '26
 
-**Top 3 Professors:**  
-1. Kevin Lu
-2. Kevin Lu
-3. Kevin Lu
+**Coding Languages I have experience in:**  
+1. C++
+2. Python
+3. C
 
-**Kevin Lu's Best Attributes:** 
+**:** 
 - Smart
 - Kind
 - Generous
 
 ``Use `code` in your Markdown file.``  
 
-He's so funny
+Stevens Institute of Technology
 ---
-And cool  
+ECE Department  
 [Kevin Lu](https://www.stevens.edu/profile/klu2)  
 ![Kevin Lu]("C:\Users\antho\OneDrive\Pictures\Screenshots\KevinLu.jpg")
