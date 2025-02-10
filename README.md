@@ -13,10 +13,11 @@
 - Image Processing
 - Robotics
 
-``code``  
+``print("Hello World!")``  
 
 Stevens Institute of Technology
 ---
 ECE Department  
 [Anthony Magno]([https://www.stevens.edu/profile/klu2](https://www.linkedin.com/in/anthony-magno-19a897255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
-![Kevin Lu]("C:\Users\antho\OneDrive\Pictures\Screenshots\KevinLu.jpg")
+(![picture](https://github.com/user-attachments/assets/c179ef8d-2260-4a95-9b13-0331a81689c4)
+
