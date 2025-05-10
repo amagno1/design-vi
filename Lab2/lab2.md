@@ -2,7 +2,7 @@
 ## Lab 2
 ### Terminal Results
 - Screenshot 1
-![hostname](https://github.com/amagno1/design-iv/raw/main/Lab2/l1.png)
+![hostname](https://raw.githubusercontent.com/amagno1/design-iv/main/Lab2/l1.png)
 
 ## Screenshot 2
 ![l2](images/l2.png)
