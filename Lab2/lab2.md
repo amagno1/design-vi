@@ -14,6 +14,7 @@
 ![Screenshot 4](https://raw.githubusercontent.com/amagno1/design-vi/main/Lab2/l4.png)
 
 `pwd`
+
 ![Screenshot 12](https://raw.githubusercontent.com/amagno1/design-vi/main/Lab2/pwd.png)
 
 `git clone https://github.com/kevinwlu/iot.git` 
